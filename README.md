@@ -16,3 +16,7 @@ El código procesa sismogramas (convertidos previamente a formato de audio WAV) 
 * NumPy
 * SciPy
 * Matplotlib
+
+## Datos de Audio y Sismogramas
+Debido a los límites de tamaño de GitHub, los archivos `.wav` de alta resolución utilizados en este análisis están alojados en una carpeta externa. Puedes descargar los audios para reproducir el código o escucharlos directamente aquí:
+[Haz clic aquí para acceder a los audios]https://drive.google.com/drive/folders/150PK9NawuWqnN93f2TkcByDwMtVyb9Kc?usp=sharing 
