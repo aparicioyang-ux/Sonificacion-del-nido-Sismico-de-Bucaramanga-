@@ -3,7 +3,7 @@
 Este proyecto explora la intersección entre la sismología y la composición musical mediante el análisis espectral de eventos sísmicos registrados en el Nido Sísmico de Bucaramanga, Colombia. 
 
 ## Descripción del Proyecto
-El código procesa sismogramas (convertidos previamente a formato de audio WAV) y aplica la Transformada Rápida de Fourier (FFT) para aislar la energía y las frecuencias dominantes de la onda elástica. Estas frecuencias, que componen la huella acústica del sismo, son traducidas matemáticamente a notas musicales en la escala MIDI estándar, permitiendo su posterior secuenciación y análisis en Estaciones de Trabajo de Audio Digital (DAWs).
+El código busca estaciones en la red sismografica para luego plotear los mapas y dar una ubicacion espacial necesaria,descarga y procesa sismogramas (convertidos previamente a formato de audio WAV) y aplica la Transformada Rápida de Fourier (FFT) para aislar la energía y las frecuencias dominantes de la onda elástica. Estas frecuencias, que componen la huella acústica del sismo, son traducidas matemáticamente a notas musicales en la escala MIDI estándar, permitiendo su posterior secuenciación y análisis en Estaciones de Trabajo de Audio Digital (DAWs).
 
 ## Metodología
 1. **Preprocesamiento:** Lectura y normalización de la amplitud de la señal del sismograma.
